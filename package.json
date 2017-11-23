@@ -1,0 +1,21 @@
+{
+  "name": "aor-language-catalan",
+  "version": "1.0.0",
+  "description": "Catalan translations for admin-on-rest, the frontend framework for building admin applications on top of REST services.\"",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behind-design/aor-language-catalan.git"
+  },
+  "keywords": [
+    "react",
+    "admin-on-rest",
+    "translation"
+  ],
+  "author": "Behind Design",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behind-design/aor-language-catalan/issues"
+  },
+  "homepage": "https://github.com/behind-design/aor-language-catalan#readme"
+}
